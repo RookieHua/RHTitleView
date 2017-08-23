@@ -23,7 +23,7 @@ a  simple function TitleView
     [self.view addSubview:self.titleView];
 ```
 
-#others
+# others
 
 i am just a rookie,and this demo has a lot of to improve.i'll improve next.
 > contact me:
