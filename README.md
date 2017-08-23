@@ -24,6 +24,7 @@ a  simple function TitleView
 ```
 
 #others
+
 i am just a rookie,and this demo has a lot of to improve.i'll improve next.
 > contact me:
  you can send email to [15298772286@163.com]()
