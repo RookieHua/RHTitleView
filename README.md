@@ -1,7 +1,7 @@
 # RHTitleView
 a  simple function TitleView 
 
-#What you can get ?
+# What you can get ?
 
 >by use this titleView ,you can custom some function titleview like follow：
 
@@ -23,8 +23,8 @@ a  simple function TitleView
     [self.view addSubview:self.titleView];
 ```
 
-# others
+# Others
 
-i am just a rookie,and this demo has a lot of to improve.i'll improve next.
+I am just a rookie,and this demo has a lot of to improve.I'll improve next.
 > contact me:
  you can send email to [15298772286@163.com]()
