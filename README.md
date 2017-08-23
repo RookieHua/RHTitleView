@@ -1,15 +1,15 @@
 # RHTitleView
-a  simple function TitleView 
+A  simple function TitleView 
 
 # What you can get ?
 
->by use this titleView ,you can custom some function titleview like follow：
+>By use this titleView ,you can custom some function titleview like follow：
 
 ![Markdown preferences pane](http://ov4d3izq5.bkt.clouddn.com/GitHub/readmeRHTitleViewDemo_gif.gif)
 
 # How to use it
 
-> you can use it just like follow:
+> You can use it just like follow:
 
 ```
  self.titleView.delegate = self;
@@ -25,6 +25,6 @@ a  simple function TitleView
 
 # Others
 
-I am just a rookie,and this demo has a lot of to improve.I'll improve next.
-> contact me:
+I'm just a rookie,and this demo has a lot of to improve.I'll improve next.
+> Contact me:
  you can send email to [15298772286@163.com]()
