@@ -25,6 +25,5 @@ A  simple function TitleView
 
 # Others
 
-I'm just a rookie,and this demo has a lot of to improve.I'll improve next.
 > Contact me:
  you can send email to [15298772286@163.com]()
